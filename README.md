@@ -1,5 +1,3 @@
-# bash-progress-bar
-
 # Bash Progress Bar
 
 A simple Bash script that displays a dynamic progress bar for file processing operations.
